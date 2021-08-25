@@ -1,0 +1,13 @@
+Daily things that can be automated:
+
+1)Watering the plants
+2)Making food 
+3)Saving electricity and water
+
+1)I think that we will be able to automate all of the above tasks. In this pandemic it is neccessary
+to maintain social distancing , going out to water the plants is one of the ways to be expossed,
+to minimise that we can automate the watering process . We can preset the timings and the 
+amount of water that is required . The code adjusts accordingly to the weather conditions , it
+may change the specified parameters (time,amout of water) according to the conditions
+
+2)Would 'nt it be nice to wake up to 
